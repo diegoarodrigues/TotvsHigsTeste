@@ -1,0 +1,6 @@
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Domain\bin\Debug\TotsHigsTeste.Domain.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Domain\bin\Debug\TotsHigsTeste.Domain.pdb
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Domain\obj\Debug\TotsHigsTeste.Domain.csprojResolveAssemblyReference.cache
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Domain\obj\Debug\TotsHigsTeste.Domain.csproj.CoreCompileInputs.cache
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Domain\obj\Debug\TotsHigsTeste.Domain.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Domain\obj\Debug\TotsHigsTeste.Domain.pdb

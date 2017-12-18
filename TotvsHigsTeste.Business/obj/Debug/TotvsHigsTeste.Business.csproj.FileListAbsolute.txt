@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotvsHigsTeste.Business.dll
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotvsHigsTeste.Business.pdb
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\obj\Debug\TotvsHigsTeste.Business.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\obj\Debug\TotvsHigsTeste.Business.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\obj\Debug\TotvsHigsTeste.Business.dll
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\obj\Debug\TotvsHigsTeste.Business.pdb
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotsHigsTeste.Domain.dll
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotsHigsTeste.Infrastructure.dll
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\EntityFramework.dll
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotsHigsTeste.Domain.pdb
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotsHigsTeste.Infrastructure.pdb
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotsHigsTeste.Infrastructure.dll.config
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\EntityFramework.xml
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotvsHigsTeste.Business\bin\Debug\TotsHigsTeste.Domain.dll.config

@@ -1,0 +1,15 @@
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\obj\Debug\TotsHigsTeste.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\obj\Debug\TotsHigsTeste.Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\TotsHigsTeste.Infrastructure.dll.config
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\TotsHigsTeste.Infrastructure.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\TotsHigsTeste.Infrastructure.pdb
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\EntityFramework.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\TotsHigsTeste.Domain.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\TotsHigsTeste.Domain.pdb
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\EntityFramework.xml
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\obj\Debug\TotsHigsTeste.Infrastructure.dll
+c:\users\usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\obj\Debug\TotsHigsTeste.Infrastructure.pdb
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\obj\Debug\TotsHigsTeste.Infrastructure.Migrations.TotvsHigsTeste.resources
+C:\Users\Usuário\source\repos\TotvsHigsTest.solution\TotsHigsTeste.Infrastructure\obj\Debug\TotsHigsTeste.Infrastructure.csproj.GenerateResource.Cache
